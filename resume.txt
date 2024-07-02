@@ -5,20 +5,37 @@ caleb@calebtheil.com | (720) 474-8222 | calebtheil.com/dev | github.com/ctheil |
 
 PROFESSIONAL SUMMARY 
 
-Passionate full-stack developer with proven expertise in React, JavaScript, and NoSQL databases. Demonstrated ability to lead projects from ideation to deployment, combined with a talent for both front-end and back-end integration. Committed to delivering user-centric solutions and driving product enhancement. 
+Passionate full-stack developer with proven expertise in TypeScript, React, Next.js, and SQL and NoSQL databases. Demonstrated ability to lead projects from ideation to deployment, with strong front-end and back-end integration skills. Committed to delivering user-centric solutions, driving product enhancement, and continuously learning new technologies. Adept at collaborating in team environments and contributing to high-quality codebases.
  
 
 TECHNICAL SKILLS 
 
-Frontend: React, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind, Bootstrap 
-Backend: GCP/Firebase, MongoDB, Postgres, Node.js/Express, Docker, MVC Architecture, REST 
-DevOps: GCP App Engine (Standard & Flexible), Docker, GitHub Actions, Linux/Ubuntu Server 
-Design & APIs: UX/UI Design, Sentry, Twilio, OpenAI, Algolia, Apple WeatherKit, TPLink 
+Frontend: React, TypeScript, JavaScript, Next.js, HTML, CSS, SCSS, Tailwind, Bootstrap
+Backend: Node.js, Express, Golang, Python, Rust (basic), MongoDB, Postgres, Docker, REST
+DevOps: GCP, AWS, Docker, GitHub Actions, CI/CD, Linux
+Design & APIs: UX/UI Design, Sentry, Twilio, OpenAI, Algolia
 
 
 EXPERIENCE 
 
-Lead Software Engineer | University of Colorado Denver Learning Resources Center | Denver, CO | April 2021 - May 2024 
+Freelance Full-Stack Developer | Remote | May 2024 - Present
+  - DigiSign Application (Rebuild from AppleTV to Web):
+      Re-developed the DigiSign application from AppleTV to a web-based platform using React and Node.js.
+      Enhanced accessibility and functionality, providing a responsive and user-friendly experience.
+      Implemented Firebase for real-time data updates and authentication, ensuring secure and efficient operations.
+  - Raspberry Pi Provisioning and OS Management:
+      Provisioned Raspberry Pi OS for digital signage applications using Ansible-playbook scripts.
+      Automated setup processes, including software installations and system configurations.
+      Ensured optimal performance and reliability for deployment in various educational settings.
+  - Golang API for Remote Management:
+      Developed a Golang API to enable remote management of digital signage devices.
+      Exposed API methods through an ngrok tunnel for secure public access, allowing admins to manage devices remotely.
+      Implemented robust authentication and security measures to protect sensitive operations.
+  - Ongoing Projects:
+      Negotiating contracts for maintenance and management of university-wide applications at the University of Colorado Denver and the University of Arizona.
+      Planning to develop and manage an application for the CUDenver Wellness Center, focusing on delivering seamless digital experiences for students and staff.
+
+Lead Software Developer | University of Colorado Denver Learning Resources Center | Denver, CO | April 2021 - May 2024 
   - Championed the solo design & development of multiple platforms, including the central online platform with React, Next.js, TypeScript, and Firebase.
   - Integrated RFID scanners in iPadOS for nuanced student analytics and targeted communication.
   - Devised and implemented RESTful APIs using Node.js and Express, now the foundation for all LRC tech infrastructure.
@@ -35,10 +52,21 @@ BFA in Digital Design (Emphasis in UX/UI Design) | University of Colorado Denver
 
 PERSONAL PROJECTS 
 
-- GoReddit: Text-driven Reddit replica employing Golang, Postgres, and Redis.
-- Analytix: Early-stage platform leveraging Puppeteer and Node.js for ticket price analysis.
-- Home Assistant: Automated smart home system using Ubuntu server, Docker, and custom APIs.
-- GPT Assistant: Innovative use of Twilio & OpenAI API for interactive SMS and educational feedback.
+Project: Echo:
+  Description: Developed an AI interaction platform using React, TypeScript and Tailwind, leveraging the OpenAI API to enhance prompt engineering. Hosted on an EC2 instance with Nginx and Certbot for SSL certification.
+  Impact: Improved AI user interactions and provided tools for effective prompt engineering, ensuring a secure and reliable user experience.
+GoReddit:
+  Description: Created a Reddit replica using Golang, Postgres, and Redis, implementing key features such as user authentication, post creation, and comment threads.
+  Impact: Demonstrated backend development skills and database management, handling complex data structures and interactions.
+GPT Assistant:
+  Description: Integrated Twilio & OpenAI API to develop an interactive SMS platform for educational feedback, facilitating real-time communication and AI-assisted responses.
+  Impact: Enhanced user engagement through interactive SMS, showcasing the ability to integrate third-party APIs for innovative solutions.
+HomeLab:
+  Description: Built an automated smart home system using Ubuntu server and Docker, with Home Assistant, Plex, and custom APIs for device control and automation.
+  Impact: Streamlined home automation processes, demonstrating proficiency in server management and containerization.
+Analytix:
+  Description: Early-stac platform for ticket price analysis using Puppeteer and Node.js, automating the extraction and analysis of pricing data from various sources.
+  Impact: Provided valuable insights through automated data analysis, highlighting skills in web scraping and data processing.
  
 
 ADDITIONAL SKILLS & ACHIEVEMENTS 
