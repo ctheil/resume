@@ -1,0 +1,48 @@
+Caleb Theil 
+
+caleb@calebtheil.com | (720) 474-8222 | calebtheil.com/dev | github.com/ctheil | linkedin.com/calebtheil
+ 
+
+PROFESSIONAL SUMMARY 
+
+Passionate full-stack developer with proven expertise in React, JavaScript, and NoSQL databases. Demonstrated ability to lead projects from ideation to deployment, combined with a talent for both front-end and back-end integration. Committed to delivering user-centric solutions and driving product enhancement. 
+ 
+
+TECHNICAL SKILLS 
+
+Frontend: React, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind, Bootstrap 
+Backend: GCP/Firebase, MongoDB, Postgres, Node.js/Express, Docker, MVC Architecture, REST 
+DevOps: GCP App Engine (Standard & Flexible), Docker, GitHub Actions, Linux/Ubuntu Server 
+Design & APIs: UX/UI Design, Sentry, Twilio, OpenAI, Algolia, Apple WeatherKit, TPLink 
+
+
+EXPERIENCE 
+
+Lead Software Engineer | University of Colorado Denver Learning Resources Center | Denver, CO | April 2021 - May 2024 
+  - Championed the solo design & development of multiple platforms, including the central online platform with React, Next.js, TypeScript, and Firebase.
+  - Integrated RFID scanners in iPadOS for nuanced student analytics and targeted communication.
+  - Devised and implemented RESTful APIs using Node.js and Express, now the foundation for all LRC tech infrastructure.
+  - Managed training sessions for team members, promoting effective use of new features and best practices.
+  - Conducted code reviews, testing, and debugging to ensure high-quality code and performance.
+  - Crafted pitch decks and presentations to secure executive buy-in for new projects.
+ 
+
+EDUCATION 
+
+Prospective MS in Computer Science | University of Colorado Boulder | Starting: Fall 2025 
+BFA in Digital Design (Emphasis in UX/UI Design) | University of Colorado Denver | GPA: 3.75 (Overall), 3.96 (In-Major) 
+
+
+PERSONAL PROJECTS 
+
+- GoReddit: Text-driven Reddit replica employing Golang, Postgres, and Redis.
+- Analytix: Early-stage platform leveraging Puppeteer and Node.js for ticket price analysis.
+- Home Assistant: Automated smart home system using Ubuntu server, Docker, and custom APIs.
+- GPT Assistant: Innovative use of Twilio & OpenAI API for interactive SMS and educational feedback.
+ 
+
+ADDITIONAL SKILLS & ACHIEVEMENTS 
+
+- Leadership: Directed teams, delegated tasks, and orchestrated training sessions in current role.
+- Collaboration: Regularly engaged in team projects and group design activities, ensuring effective communication and teamwork.
+- Continuous Learning: Enthusiastically learning new technologies and methodologies to improve development skills and project outcomes.
