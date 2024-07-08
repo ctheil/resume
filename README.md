@@ -2,7 +2,7 @@
 
 ## Caleb Theil
 
-[email](caleb@calebtheil.com) | (720) 474-8222 | [Portfolio](calebtheil.com/dev) | [GitHub](github.com/ctheil) | [LinkedIn](linkedin.com/calebtheil)
+[Email](caleb@calebtheil.com) | (720) 474-8222 | [Portfolio](calebtheil.com/dev) | [GitHub](github.com/ctheil) | [LinkedIn](linkedin.com/calebtheil)
 
 ### PROFESSIONAL SUMMARY
 
