@@ -12,8 +12,7 @@ Passionate full-stack developer with expertise in TypeScript, React, Next.js, an
 
 **Frontend**: React, TypeScript, JavaScript, Next.js, HTML, CSS, SCSS, Tailwind, Bootstrap\
 **Backend**: Node.js, Express, Golang, Rust (basic), MongoDB, Postgres, REST\
-**DevOps**: GCP, AWS, Docker, GitHub Actions, CI/CD, Linux\
-**Design & APIs**: UX/UI Design, Sentry, Twilio, OpenAI, Algolia
+**DevOps**: GCP, AWS, Docker, GitHub Actions, CI/CD, Linux
 
 ### Experience
 
