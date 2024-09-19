@@ -16,6 +16,12 @@ Passionate full-stack developer with expertise in TypeScript, React, Next.js, an
 
 ### Experience
 
+#### **Web Application Consultant (Full-Stack) | College of Arts and Media | Denver, CO | September 2024 - Present**
+- Conducted interviews with key stakeholders to identify critical issues and process bottlenecks.
+- Developed investigative applications and scripts to diagnose performance issues and data discrepancies.
+- Implemented security features using advanced authentication techniques to protect sensitive data and prevent malicious activity.
+- Prepared presentations outlining system design improvements for enhanced scalability and performance.
+
 #### **Freelance Full-Stack Developer | Remote | May 2024 - Present**
 
 - **DigiSign Application (Rebuild from AppleTV to Web):**
@@ -41,7 +47,6 @@ Passionate full-stack developer with expertise in TypeScript, React, Next.js, an
 
 ### Education
 
-Prospective **MS in Computer Science** | University of Colorado Boulder | Starting: Fall 2025\
 **BFA in Digital Design** (Emphasis in UX/UI Design) | University of Colorado Denver | GPA: 3.75, 3.97 (In-Major)
 
 ### Personal Projects
@@ -54,17 +59,10 @@ Developed an AI interaction platform using React, TypeScript, and Tailwind, leve
 
 Created a Reddit replica with Golang, Postgres, and Redis, featuring user authentication, post creation, and comment threads. Demonstrated backend development skills and database management. \
 
-#### GPT Assistant
-
-Integrated Twilio & OpenAI API to create an interactive SMS platform for educational feedback. Enhanced user engagement through real-time AI-assisted communication. \
-
 #### HomeLab
 
 Built an automated smart home system using Ubuntu server, Docker, Home Assistant, and custom APIs. Streamlined home automation, showcasing server management and containerization skills. \
 
-#### Analytix
-
-Developed a platform for ticket price analysis using Puppeteer and Node.js. Automated data extraction and analysis, providing valuable insights through web scraping and data processing.
 
 ### Additional Skills & Achievments
 
