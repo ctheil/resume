@@ -58,7 +58,6 @@ A social app designed to help users find what to watch next. Built with Golang, 
 An AI interaction platform built with React and the OpenAI API. Hosted on EC2 with Nginx and SSL, Echo enhances AI-driven conversations and provides tools for effective prompt engineering.
 
 **HomeLab**
-
 Built an automated smart home system using Ubuntu server, Docker, Home Assistant, and custom APIs. Streamlined home automation, showcasing server management and containerization skills.
 
 
