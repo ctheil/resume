@@ -51,17 +51,15 @@ Passionate full-stack developer with expertise in TypeScript, React, Next.js, an
 
 ### Personal Projects
 
-#### Project: Echo
+**PMDB**  
+A social app designed to help users find what to watch next. Built with Golang, Postgres, Redis, and React, it supports solo and multi-user sessions, custom watchlists, and streaming service integration.
 
-Developed an AI interaction platform using React, TypeScript, and Tailwind, leveraging the OpenAI API. Hosted on an EC2 instance with Nginx and Certbot for SSL. Improved AI user interactions and provided tools for effective prompt engineering. \
+**Echo**  
+An AI interaction platform built with React and the OpenAI API. Hosted on EC2 with Nginx and SSL, Echo enhances AI-driven conversations and provides tools for effective prompt engineering.
 
-#### GoReddit
+**HomeLab**
 
-Created a Reddit replica with Golang, Postgres, and Redis, featuring user authentication, post creation, and comment threads. Demonstrated backend development skills and database management. \
-
-#### HomeLab
-
-Built an automated smart home system using Ubuntu server, Docker, Home Assistant, and custom APIs. Streamlined home automation, showcasing server management and containerization skills. \
+Built an automated smart home system using Ubuntu server, Docker, Home Assistant, and custom APIs. Streamlined home automation, showcasing server management and containerization skills.
 
 
 ### Additional Skills & Achievments
