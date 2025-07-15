@@ -1,3 +1,8 @@
+# Offer Accepted
+
+> [!NOTE]
+> CoBank made an offer and I accepted.
+
 ## Caleb Theil
 
 [Email](caleb@calebtheil.com) | [Phone](720-474-8222) |  [GitHub](github.com/ctheil) | [LinkedIn](linkedin.com/calebtheil)
@@ -15,6 +20,7 @@ Passionate full-stack developer with expertise in TypeScript, React, Next.js, an
 ### Experience
 
 #### **Web Application Consultant (Full-Stack) | College of Arts and Media | Denver, CO | September 2024 - Present**
+
 - Conducted interviews with key stakeholders to identify critical issues and process bottlenecks.
 - Developed investigative applications and scripts to diagnose performance issues and data discrepancies.
 - Implemented security features using advanced authentication techniques to protect sensitive data and prevent malicious activity.
@@ -57,7 +63,6 @@ An AI interaction platform built with React and the OpenAI API. Hosted on EC2 wi
 
 **HomeLab**
 Built an automated smart home system using Ubuntu server, Docker, Home Assistant, and custom APIs. Streamlined home automation, showcasing server management and containerization skills.
-
 
 ### Additional Skills & Achievments
 
